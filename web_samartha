@@ -1,0 +1,18 @@
+<DOCTYPE html>
+    <html>
+        <head>
+            <title>Life foundation</title>
+            <style>
+
+            </style>
+        </head>
+        <body>
+          <!--Links (sit on top)--> 
+          <tr><td>Home</td>
+        <td>About</td>
+    <td>photos</td>
+<td>Videos</td>
+<td>More</td></tr>
+
+        </body>
+    </html>
